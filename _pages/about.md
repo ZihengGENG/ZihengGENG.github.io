@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I'm a PhD student in the Department of Civil & Architecture Engineering at University of Miami. I'm being supervised by [Dr. Minghui Cheng](https://fsminghuic.wixsite.com/minghuicheng) to develop digital twins for infrastructure systems.
+
+Before I joined U, I obtained my bachelor and master degree at Hunan Univerisity. I'm fortune to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to develop advanced technology for real-time detection of ground properties for earth pressure balance shields (EPBS).
+
+Feel free to discuss research via [Email](mailto: ziheng.geng@miami.edu) or [Email](mailto: gengziheng@hnu.edu.cn).
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
