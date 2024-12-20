@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of Miami, Department of Civil & Architectural Engineering, Aug. 2024 –
-* M.S. in Hunan University, College of Civil Engineering, Sep. 2021 – Jun. 2024
-* B.S. in Hunan University, College of Civil Engineering, Sep. 2017 – Jun. 2021
+* Ph.D in **University of Miami**, Department of Civil & Architectural Engineering, Aug. 2024 –
+* M.S. in **Hunan University**, College of Civil Engineering, Sep. 2021 – Jun. 2024
+* B.S. in **Hunan University**, College of Civil Engineering, Sep. 2017 – Jun. 2021
 
 Publications
 ======
