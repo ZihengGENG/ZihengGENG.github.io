@@ -12,62 +12,25 @@ I am a PhD student in the Department of Civil & Architecture Engineering at Univ
 Before I joined U, I obtained my bachelor and master degree at Hunan Univerisity. I'm fortune to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to develop advanced technology for real-time detection of ground properties for earth pressure balance shields (EPBS).
 
 Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto: ziheng.geng@miami.edu) or [gengziheng@hnu.edu.cn](mailto: gengziheng@hnu.edu.cn).
-======
+
+---
+
 # Recent News
-Excellent Abstract Award [11/2024]: We have winned the Excellent Abstract Award in The 2nd Workshop on Future of Machine Learning in Geotechnics & The 5th Machine Learning in Geotechnics Dialogue for the paper “Integrating multi-source information for intelligent detection of ground properties during earth pressure balanced shield tunnelling”. 
 
-PhD Study [08/2024]: Glad to announce that I have joined as PhD student in University of Miami under the supervision of Dr. Minghui Cheng! Looking forward to working closely with Dr. Cheng.
+- **Excellent Abstract Award** *(11/2024)*: We have won the Excellent Abstract Award at the 2nd Workshop on Future of Machine Learning in Geotechnics & the 5th Machine Learning in Geotechnics Dialogue for the paper “Integrating multi-source information for intelligent detection of ground properties during earth pressure balanced shield tunnelling.”
 
-Paper [07/2024]: A paper collaborated with Yangkai entitled [“Development and evaluation of a process-oriented 3D finite element model for earth pressure balance shield tunneling”](https://www.sciencedirect.com/science/article/pii/S0266352X24002830) is published in Computers and Geotechnics.
+- **PhD Study** *(08/2024)*: Glad to announce that I have joined as a PhD student at the University of Miami under the supervision of Dr. Minghui Cheng! Looking forward to working closely with Dr. Cheng.
 
-Paper [07/2024]: A paper collaborated with Jiaxing entitled [“Seismic analysis of segmental tunnels Using multi-contact joint-based tunnel model”](https://www.worldscientific.com/doi/full/10.1142/S1793431124500209) is published in Journal of Earthquake and Tsunami.
+- **Paper** *(07/2024)*: A paper collaborated with Yangkai entitled [“Development and evaluation of a process-oriented 3D finite element model for earth pressure balance shield tunneling”](https://www.sciencedirect.com/science/article/pii/S0266352X24002830) is published in *Computers and Geotechnics*.
 
-Master Graduation [06/2024]: Thrilled to share that I have graduated from Hunan University and obtained my Master degree for Engineering. Thanks Prof. Chao Zhang for his unconditional guidance and support.
+- **Paper** *(07/2024)*: A paper collaborated with Jiaxing entitled [“Seismic analysis of segmental tunnels using multi-contact joint-based tunnel model”](https://www.worldscientific.com/doi/full/10.1142/S1793431124500209) is published in *Journal of Earthquake and Tsunami*.
 
-Machine Learning Competition [10/2023]: I will participate in the 2nd TBM Tunneling Parameters Data Sharing and Machine Learning Competition on behalf of the team "UNSAT" from Hunan University.
+- **Master Graduation** *(06/2024)*: Thrilled to share that I have graduated from Hunan University and obtained my Master’s degree in Engineering. Thanks to Prof. Chao Zhang for his unconditional guidance and support.
 
-Activity [07/2023]: I attended the joint summer camp hosted by Hong Kong University of Science and Technology (Guangzhou). Happy to meet with professors in Intelligent Transportation Thrust!
+- **Machine Learning Competition** *(10/2023)*: I participated in the 2nd TBM Tunneling Parameters Data Sharing and Machine Learning Competition on behalf of the team "UNSAT" from Hunan University.
 
-Paper [05/2023]: Our paper entitled [“A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling”](https://arxiv.org/abs/2305.05128) can be finded in arxiv.
+- **Activity** *(07/2023)*: I attended the joint summer camp hosted by Hong Kong University of Science and Technology (Guangzhou). Happy to meet with professors in Intelligent Transportation Thrust!
 
-Conference [03/2023]: I attended the National Highway Tunnel Academic Annual Conference in Wuxi, China. Great to see impressive engineering projects in China!
+- **Paper** *(05/2023)*: Our paper entitled [“A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
 
-
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
+- **Conference** *(03/2023)*: I attended the National Highway Tunnel Academic Annual Conference in Wuxi, China. Great to see impressive engineering projects in China!
