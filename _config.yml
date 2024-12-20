@@ -21,7 +21,7 @@ repository               : "ZihengGENG/ZihengGENG.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.png"
+  avatar           : "professional picture.png"
   name             : "Ziheng GENG"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at U"
