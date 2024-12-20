@@ -13,7 +13,6 @@ Before I joined U, I obtained my bachelor and master degree at Hunan Univerisity
 
 Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto: ziheng.geng@miami.edu) or [gengziheng@hnu.edu.cn](mailto: gengziheng@hnu.edu.cn).
 
----
 
 # Recent News
 
