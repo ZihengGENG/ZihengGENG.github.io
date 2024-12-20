@@ -16,20 +16,20 @@ Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto:ziheng.
 
 # Recent News
 
-- **Excellent Abstract Award** [11/2024]: We have won the Excellent Abstract Award at the 2nd Workshop on Future of Machine Learning in Geotechnics & the 5th Machine Learning in Geotechnics Dialogue for the paper “Integrating multi-source information for intelligent detection of ground properties during earth pressure balanced shield tunnelling.”
+- **Excellent Abstract Award [11/2024]**: We have won the Excellent Abstract Award at the 2nd Workshop on Future of Machine Learning in Geotechnics & the 5th Machine Learning in Geotechnics Dialogue for the paper **“Integrating multi-source information for intelligent detection of ground properties during earth pressure balanced shield tunnelling”**.
 
-- **PhD Study** [08/2024]: Glad to announce that I have joined as a PhD student at the University of Miami under the supervision of Dr. Minghui Cheng! Looking forward to working closely with Dr. Cheng.
+- **PhD Study [08/2024]**: Glad to announce that I have joined as a PhD student at the **University of Miami** under the supervision of **Dr. Minghui Cheng**! Look forward to working closely with Dr. Cheng.
 
-- **Paper** [07/2024]: A paper collaborated with Yangkai entitled [“Development and evaluation of a process-oriented 3D finite element model for earth pressure balance shield tunneling”](https://www.sciencedirect.com/science/article/pii/S0266352X24002830) is published in *Computers and Geotechnics*.
+- **Paper [07/2024]**: A paper collaborated with Yangkai entitled [“**Development and evaluation of a process-oriented 3D finite element model for earth pressure balance shield tunneling**”](https://www.sciencedirect.com/science/article/pii/S0266352X24002830) is published in *Computers and Geotechnics*.
 
-- **Paper** [07/2024]: A paper collaborated with Jiaxing entitled [“Seismic analysis of segmental tunnels using multi-contact joint-based tunnel model”](https://www.worldscientific.com/doi/full/10.1142/S1793431124500209) is published in *Journal of Earthquake and Tsunami*.
+- **Paper** [07/2024]: A paper collaborated with Jiaxing entitled [“**Seismic analysis of segmental tunnels using multi-contact joint-based tunnel model**”](https://www.worldscientific.com/doi/full/10.1142/S1793431124500209) is published in *Journal of Earthquake and Tsunami*.
 
-- **Master Graduation** [06/2024]: Thrilled to share that I have graduated from Hunan University and obtained my Master’s degree in Engineering. Thanks to Prof. Chao Zhang for his unconditional guidance and support.
+- **Master Graduation** [06/2024]: Thrilled to share that I have graduated from Hunan University and obtained my MEng degree in Engineering. Thanks to **Prof. Chao Zhang** for his unconditional guidance and support!
 
-- **Machine Learning Competition** [10/2023]: I participated in the 2nd TBM Tunneling Parameters Data Sharing and Machine Learning Competition on behalf of the team "UNSAT" from Hunan University.
+- **Machine Learning Competition** [10/2023]: I participated in **The 2nd TBM Tunneling Parameters Data Sharing and Machine Learning Competition** on behalf of the team "UNSAT" from Hunan University.
 
-- **Activity** [07/2023]: I attended the joint summer camp hosted by Hong Kong University of Science and Technology (Guangzhou). Happy to meet with professors in Intelligent Transportation Thrust!
+- **Activity** [07/2023]: I attended the joint summer camp hosted by **Hong Kong University of Science and Technology (Guangzhou)**. Happy to meet with professors in Intelligent Transportation Thrust!
 
-- **Paper** [05/2023]: Our paper entitled [“A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
+- **Paper** [05/2023]: Our paper entitled [“**A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling**”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
 
-- **Conference** [03/2023]: I attended the National Highway Tunnel Academic Annual Conference in Wuxi, China. Great to see impressive engineering projects in China!
+- **Conference** [03/2023]: I attended the **National Highway Tunnel Academic Annual Conference** in Wuxi, China. Great to see impressive engineering projects in China!
