@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Department of Civil & Architecture Engineering at University of Miami. I'm being supervised by [Dr. Minghui Cheng](https://fsminghuic.wixsite.com/minghuicheng) to develop digital twins for infrastructure systems.
+I am a PhD student in the Department of Civil & Architecture Engineering at University of Miami. I'm being supervised by [Dr. Minghui Cheng](https://fsminghuic.wixsite.com/minghuicheng) to develop digital twins for infrastructure systems.
 
 Before I joined U, I obtained my bachelor and master degree at Hunan Univerisity. I'm fortune to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to develop advanced technology for real-time detection of ground properties for earth pressure balance shields (EPBS).
 
