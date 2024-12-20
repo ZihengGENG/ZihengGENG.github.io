@@ -1,18 +1,22 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
+layout: single
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student in the Department of Civil & Architecture Engineering at University of Miami. I'm being supervised by [Dr. Minghui Cheng](https://fsminghuic.wixsite.com/minghuicheng) to develop digital twins for infrastructure systems.
+# About Me
 
-Before I joined U, I obtained my bachelor and master degree at Hunan Univerisity. I'm fortune to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to develop advanced technology for real-time detection of ground properties for earth pressure balance shields (EPBS).
+I am a PhD student in the Department of Civil & Architectural Engineering at the University of Miami. I'm being supervised by [Dr. Minghui Cheng](https://fsminghuic.wixsite.com/minghuicheng) to develop digital twins for infrastructure systems.
 
-Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto: ziheng.geng@miami.edu) or [gengziheng@hnu.edu.cn](mailto: gengziheng@hnu.edu.cn).
+Before I joined UM, I obtained my bachelor's and master's degrees at Hunan University. I'm fortunate to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to develop advanced technology for real-time detection of ground properties for earth pressure balance shields (EPBS).
 
+Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto:ziheng.geng@miami.edu) or [gengziheng@hnu.edu.cn](mailto:gengziheng@hnu.edu.cn).
+
+---
 
 # Recent News
 
@@ -29,6 +33,10 @@ Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto: ziheng
 - **Machine Learning Competition** *(10/2023)*: I participated in the 2nd TBM Tunneling Parameters Data Sharing and Machine Learning Competition on behalf of the team "UNSAT" from Hunan University.
 
 - **Activity** *(07/2023)*: I attended the joint summer camp hosted by Hong Kong University of Science and Technology (Guangzhou). Happy to meet with professors in Intelligent Transportation Thrust!
+
+- **Paper** *(05/2023)*: Our paper entitled [“A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
+
+- **Conference** *(03/2023)*: I attended the National Highway Tunnel Academic Annual Conference in Wuxi, China. Great to see impressive engineering projects in China!
 
 - **Paper** *(05/2023)*: Our paper entitled [“A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
 
