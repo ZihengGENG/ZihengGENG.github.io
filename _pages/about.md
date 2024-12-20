@@ -16,8 +16,6 @@ Before I joined UM, I obtained my bachelor's and master's degrees at Hunan Unive
 
 Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto:ziheng.geng@miami.edu) or [gengziheng@hnu.edu.cn](mailto:gengziheng@hnu.edu.cn).
 
----
-
 # Recent News
 
 - **Excellent Abstract Award** *(11/2024)*: We have won the Excellent Abstract Award at the 2nd Workshop on Future of Machine Learning in Geotechnics & the 5th Machine Learning in Geotechnics Dialogue for the paper “Integrating multi-source information for intelligent detection of ground properties during earth pressure balanced shield tunnelling.”
