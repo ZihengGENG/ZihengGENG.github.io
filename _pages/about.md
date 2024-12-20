@@ -10,13 +10,13 @@ redirect_from:
 
 I am a PhD student in the **Department of Civil & Architectural Engineering** at **University of Miami**. I'm being supervised by [Dr. Minghui Cheng](https://fsminghuic.wixsite.com/minghuicheng) to develop **digital twins for infrastructure systems**.
 
-Before I joined U, I obtained my BEng and MEng degrees at **Hunan University**. I am fortunate to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to develop **advanced technologies for real-time detection of ground properties for earth pressure balance shields (EPBS)**.
+Before I joined U, I obtained my BEng and MEng degrees at **Hunan University**. I am fortunate to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to **integrate multi-source information for intelligent detection of ground properties during earth pressure balance shields (EPBS) tunnelling process**.
 
 Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto:ziheng.geng@miami.edu) or [gengziheng@hnu.edu.cn](mailto:gengziheng@hnu.edu.cn).
 
 # Recent News
 
-- **Excellent Abstract Award [11/2024]**: We have won the Excellent Abstract Award at the **2nd Workshop on Future of Machine Learning in Geotechnics & the 5th Machine Learning in Geotechnics Dialogue** for the paper “Integrating multi-source information for intelligent detection of ground properties during earth pressure balanced shield tunnelling”.
+- **Excellent Abstract Award [11/2024]**: We have won the Excellent Abstract Award at **The 2nd Workshop on Future of Machine Learning in Geotechnics & the 5th Machine Learning in Geotechnics Dialogue** for the paper “Integrating multi-source information for intelligent detection of ground properties during earth pressure balanced shield tunnelling”.
 
 - **PhD Study [08/2024]**: Glad to announce that I have joined as a PhD student at the **University of Miami** under the supervision of **Dr. Minghui Cheng**! Look forward to working closely with Dr. Cheng.
 
@@ -32,4 +32,5 @@ Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto:ziheng.
 
 - **Paper** [05/2023]: Our paper entitled [“**A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling**”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
 
-- **Conference** [03/2023]: I attended the **National Highway Tunnel Academic Annual Conference** in Wuxi, China. Great to see impressive engineering projects in China!
+- **Conference** [03/2023]: I attended **The National Highway Tunnel Academic Annual Conference** in Wuxi, China. Great to see impressive engineering projects in China!
+
