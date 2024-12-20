@@ -37,9 +37,3 @@ Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto:ziheng.
 - **Paper** *(05/2023)*: Our paper entitled [“A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
 
 - **Conference** *(03/2023)*: I attended the National Highway Tunnel Academic Annual Conference in Wuxi, China. Great to see impressive engineering projects in China!
-
-
-
-- **Paper** *(05/2023)*: Our paper entitled [“A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
-
-- **Conference** *(03/2023)*: I attended the National Highway Tunnel Academic Annual Conference in Wuxi, China. Great to see impressive engineering projects in China!
