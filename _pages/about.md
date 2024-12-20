@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in the **Department of Civil & Architectural Engineering** at **University of Miami**. I'm being supervised by [Dr. Minghui Cheng](https://fsminghuic.wixsite.com/minghuicheng) to develop **digital twins for infrastructure systems**.
 
-Before I joined UM, I obtained my bachelor's and master's degrees at **Hunan University**. I'm fortunate to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to develop **advanced technology for real-time detection of ground properties for earth pressure balance shields (EPBS)**.
+Before I joined UM, I obtained my BEng and MEng degrees at **Hunan University**. I am fortunate to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to develop **advanced technology for real-time detection of ground properties for earth pressure balance shields (EPBS)**.
 
 Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto:ziheng.geng@miami.edu) or [gengziheng@hnu.edu.cn](mailto:gengziheng@hnu.edu.cn).
 
