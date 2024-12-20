@@ -12,7 +12,7 @@ I am a PhD student in the **Department of Civil & Architectural Engineering** at
 
 Before I joined U, I obtained my BEng and MEng degrees at **Hunan University**. I am fortunate to be advised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/) to **integrate multi-source information for intelligent detection of ground properties during earth pressure balance shields (EPBS) tunnelling process**.
 
-Feel free to discuss research with me via [ziheng.geng@miami.edu](mailto:ziheng.geng@miami.edu) or [gengziheng@hnu.edu.cn](mailto:gengziheng@hnu.edu.cn).
+Feel free to discuss research with me via [**ziheng.geng@miami.edu**](mailto:ziheng.geng@miami.edu) or [**gengziheng@hnu.edu.cn**](mailto:gengziheng@hnu.edu.cn).
 
 # Recent News
 
