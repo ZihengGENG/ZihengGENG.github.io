@@ -40,14 +40,14 @@ Research Experience
 
     The software integrates **GIS** and **BIM** to construct the digital foundation pit engineering scene. **A-star algorithm** is utilized to plan the path for the excavators within the 3D foundation pit. The visualization is implemented with the aid of **Unity 3D**.
     <p align="center">
-      <img src="DeepFoundation.png"  alt="Path Planning Software" />
+      <img src="DeepFoundation.png" width="750"  alt="Path Planning Software" />
     </p>
 
 - **A Kriging-Random Forest Hybrid Model (KRF)**
 
     The KRF model synergizes **prior and real-time information** to predict the ground properties. **Prior information** incorporates the **inherent spatial correlation** of ground properties within a given region. **Real-time information** refers to the **current operating parameters**, reflecting real-time shield–ground interactions. These two predictions are integrated according to their **uncertainties**, ensuring the prediction of KRF with minimum uncertainty. 
     <p align="center">
-      <img src="KRF.png"  alt="Kriging-Random Forest Hybrid Model" />
+      <img src="KRF.png" width="750" alt="Kriging-Random Forest Hybrid Model" />
     </p>
 
 - **Vibration Monitoring of the Shield Machine**
@@ -55,7 +55,7 @@ Research Experience
     A vibration monitoring system including seven accelerometers is designed and implemented in the Changsha Metro Line 1 North Extension. It provides a comprehensive vibration dataset of an EPB shield machine excavating through various rock types. Based on vibration analysis, two classification charts are developed for full-face rock type detection and ground composition detection, respectively. The proposed charts yield error-free predictions for all the 1752 recorded points in the project.
 
     <p align="center">
-      <img src="Vibration.png"  alt="Vibration-based Classification Charts" />
+      <img src="Vibration.png" width="750" alt="Vibration-based Classification Charts" />
     </p>
 
 
