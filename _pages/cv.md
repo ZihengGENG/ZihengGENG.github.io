@@ -14,6 +14,7 @@ Education
 - **M.S. in Civil Engineering**, Hunan University, *Sep. 2021 – Jun. 2024*
 - **B.S. in Civil Engineering**, Hunan University, *Sep. 2017 – Jun. 2021*
 
+
 Publications
 ======
 * Gong, Y., Zhang, C., **Geng, Z.**, Chen, R., & Ren, Y. (2024). Development and evaluation of a process-oriented 3D finite element model for earth pressure balance shield tunneling.
@@ -21,6 +22,7 @@ Publications
 * Zhou, J., Deng, P., Zhang, C., **Geng, Z.**, & Chen, R. (2024). Seismic analysis of segmental tunnels using multi-contact joint-based tunnel model. ***Journal of Earthquake and Tsunami***. [[[Link](https://www.sciencedirect.com/science/article/pii/S0266352X24002830)]]
 * **Geng, Z.**, Zhang, C., Ren, Y., Zhu, M., Chen, R., & Cheng, H. (2023). A Kriging-random forest hybrid model for real-time ground property prediction during earth pressure balance shield 
    tunneling. ***arXiv preprint***. [[[Link]((https://arxiv.org/abs/2305.05128))]]
+
 
 Awards & Honors
 ======
@@ -30,6 +32,7 @@ Awards & Honors
 * 11/2022: **National Scholarship**, *National Ministry of Education China*.
 * 11/2021: First Prize Scholarship, *Hunan University*.
 * 06/2021: Excellent Graduate of Hunan University, *Hunan University*.
+
 
 Skills
 ======
