@@ -10,8 +10,6 @@ redirect_from:
 
 Education
 ======
-## Education
-
 - **Ph.D. in Civil Engineering**, University of Miami, *Aug. 2024 – Present*
 - **M.S. in Civil Engineering**, Hunan University, *Sep. 2021 – Jun. 2024*
 - **B.S. in Civil Engineering**, Hunan University, *Sep. 2017 – Jun. 2021*
