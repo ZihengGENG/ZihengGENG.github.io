@@ -14,6 +14,8 @@ Education
 - **M.S. in Civil Engineering**, Hunan University, *Sep. 2021 – Jun. 2024*
 - **B.S. in Civil Engineering**, Hunan University, *Sep. 2017 – Jun. 2021*
 
+<br>
+<hr style="border: 0.5px solid #ccc;" />
 
 Publications
 ======
@@ -23,6 +25,8 @@ Publications
 * **Geng, Z.**, Zhang, C., Ren, Y., Zhu, M., Chen, R., & Cheng, H. (2023). A Kriging-random forest hybrid model for real-time ground property prediction during earth pressure balance shield 
    tunneling. ***arXiv preprint***. [[[Link]((https://arxiv.org/abs/2305.05128))]]
 
+<br>
+<hr style="border: 0.5px solid #ccc;" />
 
 Awards & Honors
 ======
@@ -33,6 +37,8 @@ Awards & Honors
 * 11/2021: First Prize Scholarship, *Hunan University*.
 * 06/2021: Excellent Graduate of Hunan University, *Hunan University*.
 
+<br>
+<hr style="border: 0.5px solid #ccc;" />
 
 Skills
 ======
