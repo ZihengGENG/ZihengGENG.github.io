@@ -15,7 +15,6 @@ Education
 - **B.S. in Civil Engineering**, Hunan University, *Sep. 2017 – Jun. 2021*
 
 <br>
-<hr style="border: 0.5px solid #ccc;" />
 
 Publications
 ======
@@ -26,7 +25,6 @@ Publications
    tunneling. ***arXiv preprint***. [[[Link]((https://arxiv.org/abs/2305.05128))]]
 
 <br>
-<hr style="border: 0.5px solid #ccc;" />
 
 Awards & Honors
 ======
@@ -38,7 +36,6 @@ Awards & Honors
 * 06/2021: Excellent Graduate of Hunan University, *Hunan University*.
 
 <br>
-<hr style="border: 0.5px solid #ccc;" />
 
 Skills
 ======
