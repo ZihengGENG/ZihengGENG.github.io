@@ -41,7 +41,7 @@ Research Experience
     The software integrates **GIS** and **BIM** to construct the digital foundation pit engineering scene. **A-star algorithm** is utilized to plan the path for the excavators within the 3D foundation pit. The visualization is implemented with the aid of **Unity 3D**.
 
     <p align="center">
-      <img src="Deep foundation.png" width="500" />
+      <img src="Deep foundation.png" width="500" alt="Path Planning Software" />
     </p>
 
 * 
