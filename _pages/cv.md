@@ -47,7 +47,7 @@ Research Experience
 
     The KRF model synergizes **prior and real-time information** to predict the ground properties. **Prior information** incorporates the **inherent spatial correlation** of ground properties within a given region. **Real-time information** refers to the **current operating parameters**, reflecting real-time shield–ground interactions. These two predictions are integrated according to their **uncertainties**, ensuring the prediction of KRF with minimum uncertainty. 
     <p align="center">
-      <img src="/images/KRF.png" width="800" alt="Kriging-Random Forest Hybrid Model" />
+      <img src="/images/KRF_2.png" width="800" alt="Kriging-Random Forest Hybrid Model" />
     </p>
 
 - **Vibration Monitoring of the Shield Machine**
