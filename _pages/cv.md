@@ -22,20 +22,14 @@ Publications
 * **Geng, Z.**, Zhang, C., Ren, Y., Zhu, M., Chen, R., & Cheng, H. (2023). A Kriging-random forest hybrid model for real-time ground property prediction during earth pressure balance shield 
    tunneling. arXiv preprint [arXiv:2305.05128](https://arxiv.org/abs/2305.05128).
 
-
-China Patents
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>****
-
-
 Awards & Honors
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>****
-
+* 11/2024: Excellent Abstract Award, The 2nd Workshop on Future of Machine Learning in Geotechnics& The 5th Machine Learning in Geotechnics Dialogue, Chengdu, China
+* 06/2024: Excellent Graduate of Hunan University, Hunan University.
+* 11/2023: First Prize Scholarship, Hunan University.
+* 11/2022: National Scholarship, National Ministry of Education China.
+* 11/2021: First Prize Scholarship, Hunan University.
+* 06/2021: Excellent Graduate of Hunan University, Hunan University.
 
 Skills
 ======
