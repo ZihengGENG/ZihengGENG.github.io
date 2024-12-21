@@ -12,23 +12,9 @@ Education
 ======
 ## Education
 
-- **Ph.D. in Civil & Architectural Engineering**, University of Miami  
-  *Aug. 2024 – Present*  
-  _Department of Civil & Architectural Engineering_
-
-- **M.S. in Civil Engineering**, Hunan University  
-  *Sep. 2021 – Jun. 2024*  
-  _College of Civil Engineering_
-
-- **B.S. in Civil Engineering**, Hunan University  
-  *Sep. 2017 – Jun. 2021*  
-  _College of Civil Engineering_
-
----
-
-* Ph.D in **University of Miami**, Department of Civil & Architectural Engineering, Aug. 2024 –
-* M.S. in **Hunan University**, College of Civil Engineering, Sep. 2021 – Jun. 2024
-* B.S. in **Hunan University**, College of Civil Engineering, Sep. 2017 – Jun. 2021
+- **Ph.D. in Civil & Architectural Engineering**, University of Miami, *Aug. 2024 – Present*, Department of Civil & Architectural Engineering_
+- **M.S. in Civil Engineering**, Hunan University, *Sep. 2021 – Jun. 2024*, _College of Civil Engineering_
+- **B.S. in Civil Engineering**, Hunan University, *Sep. 2017 – Jun. 2021*, _College of Civil Engineering_
 
 Publications
 ======
