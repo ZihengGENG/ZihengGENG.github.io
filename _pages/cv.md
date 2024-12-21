@@ -47,18 +47,15 @@ Research Experience
 
     The KRF model synergizes **prior and real-time information** to predict the ground properties. **Prior information** incorporates the **inherent spatial correlation** of ground properties within a given region. **Real-time information** refers to the **current operating parameters**, reflecting real-time shield–ground interactions. These two predictions are integrated according to their **uncertainties**, ensuring the prediction of KRF with minimum uncertainty. 
     <p align="center">
-      <img src="KRF.png" width="500" alt="Path Planning Software" />
+      <img src="KRF.png" width="500" alt="Kriging-Random Forest Hybrid Model" />
     </p>
 
-* 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Vibration Monitoring of the Shield Machine**
 
-  
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+    A vibration monitoring system including seven accelerometers is designed and implemented in the Changsha Metro Line 1 North Extension. It provides a comprehensive vibration dataset of an EPB shield machine excavating through various rock types. Based on vibration analysis, two classification charts are developed for full-face rock type detection and ground composition detection, respectively. The proposed charts yield error-free predictions for all the 1752 recorded points in the project.
+
+    <p align="center">
+      <img src="Vibration.png" width="500" alt="Vibration-based Classification Charts" />
+    </p>
+
+
