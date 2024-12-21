@@ -43,6 +43,13 @@ Research Experience
       <img src="DeepFoundation.png" width="500" alt="Path Planning Software" />
     </p>
 
+- **A Kriging-Random Forest Hybrid Model (KRF)**
+
+    The KRF model synergizes **prior and real-time information** to predict the ground properties. **Prior information** incorporates the **inherent spatial correlation** of ground properties within a given region. **Real-time information** refers to the **current operating parameters**, reflecting real-time shield–ground interactions. These two predictions are integrated according to their **uncertainties**, ensuring the prediction of KRF with minimum uncertainty. 
+    <p align="center">
+      <img src="KRF.png" width="500" alt="Path Planning Software" />
+    </p>
+
 * 
 * Skill 2
   * Sub-skill 2.1
