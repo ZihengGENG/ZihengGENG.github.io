@@ -36,20 +36,19 @@ Awards & Honors
 
 Research Experience
 ======
-* Skill 1
+- **Scheduling Software for Deep Foundation Pit Engineering**
+The software integrates GIS and BIM to construct the digital foundation pit engineering scene. A-star algorithm is utilized to plan the path for the excavators within the 3D foundation pit. The visualization is implemented with the aid of Unity 3D.
+<p align="center">
+  <img src="path/to/your/image.jpg" alt="Software Screenshot" width="500" />
+</p>
+
+* 
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
 
-
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
   
 Service and leadership
