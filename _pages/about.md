@@ -30,7 +30,7 @@ Feel free to discuss research with me via [**ziheng.geng@miami.edu**](mailto:zih
 
 - **Activity [07/2023]**: I attended the joint summer camp hosted by **Hong Kong University of Science and Technology (Guangzhou)**. Happy to meet with professors in Intelligent Transportation Thrust!
 
-- **Paper [05/2023]**: Our paper entitled [“**A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling**”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
+- **Paper [05/2023]**: Our paper entitled [“**A Kriging-random forest hybrid model for real-time ground property prediction during earth pressure balance shield tunneling**”](https://arxiv.org/abs/2305.05128) can be found on *arXiv*.
 
 - **Conference [03/2023]**: I attended **The National Highway Tunnel Academic Annual Conference** in Wuxi, China. Great to see impressive engineering projects in China!
 
