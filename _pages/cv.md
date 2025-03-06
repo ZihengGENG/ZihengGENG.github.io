@@ -18,7 +18,7 @@ Education
 
 Publications
 ======
-* **Geng, Z.**, Zhang, C., Jiang, Y., Pugliese, D., & Cheng, M. (2025). Integrating multi-source data for life-cycle risk assessment of bridge networks: a system digital twin framework.***Journal of Infrastructure Preservation and Resilience***, 6, 9. [[Link]((https://link.springer.com/article/10.1186/s43065-025-00121-7))]
+* **Geng, Z.**, Zhang, C., Jiang, Y., Pugliese, D., & Cheng, M. (2025). Integrating multi-source data for life-cycle risk assessment of bridge networks: a system digital twin framework. ***Journal of Infrastructure Preservation and Resilience***, 6, 9. [[Link]((https://link.springer.com/article/10.1186/s43065-025-00121-7))]
 * Gong, Y., Zhang, C., **Geng, Z.**, Chen, R., & Ren, Y. (2024). Development and evaluation of a process-oriented 3D finite element model for earth pressure balance shield tunneling.
    ***Computers and Geotechnics***, 171, 106347. [[Link](https://www.sciencedirect.com/science/article/pii/S0266352X24002830)]
 * Zhou, J., Deng, P., Zhang, C., **Geng, Z.**, & Chen, R. (2024). Seismic analysis of segmental tunnels using multi-contact joint-based tunnel model. ***Journal of Earthquake and Tsunami***. [[Link](https://www.sciencedirect.com/science/article/pii/S0266352X24002830)]
@@ -29,6 +29,7 @@ Publications
 
 Awards & Honors
 ======
+* 03/2025: **1st Place in Student Poster Competition**, *1st Symposium on Climate-Smart Infrastructure Innovations & Implementation (CSi3)*, Miami, United States
 * 11/2024: **Excellent Abstract Award**, *The 2nd Workshop on Future of Machine Learning in Geotechnics& The 5th Machine Learning in Geotechnics Dialogue*, Chengdu, China
 * 06/2024: Excellent Graduate of Hunan University, *Hunan University*.
 * 11/2023: First Prize Scholarship, *Hunan University*.
