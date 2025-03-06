@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the **Department of Civil & Architectural Engineering** at **University of Miami**. I'm being supervised by [**Dr. Minghui Cheng**](https://fsminghuic.wixsite.com/minghuicheng) to develop **digital twins for infrastructure systems**.
+I am a PhD student in the Department of Civil & Architectural Engineering at **University of Miami**. I'm being supervised by [**Dr. Minghui Cheng**](https://fsminghuic.wixsite.com/minghuicheng) to develop **digital twins for infrastructure systems**.
 
-Before I joined U, I obtained my BEng and MEng degrees at **Hunan University**. I am fortunate to be advised by [**Prof. Chao Zhang**](https://chaozhanghnu.github.io/) to **integrate multi-source information for intelligent detection of ground properties during earth pressure balance shields (EPBS) tunnelling process**.
+Before I joined U, I obtained my BEng and MEng degrees at **Hunan University**. I am fortunate to be advised by [**Prof. Chao Zhang**](https://chaozhanghnu.github.io/) to integrate multi-source information for **intelligent detection of ground properties during earth pressure balance shields (EPBS) tunnelling process**.
 
 Feel free to discuss research with me via [**ziheng.geng@miami.edu**](mailto:ziheng.geng@miami.edu)/[**gengziheng@hnu.edu.cn**](mailto:gengziheng@hnu.edu.cn).
 
 # Recent News
+
+- **Student Poster Competition Winner [03/2025]**: I have received 1st place in the Student Poster Competition at **The 1st Symposium on Climate-Smart Infrastructure Innovations & Implementation (CSi3)** for the poster “An entropy-based formulation of Bayesian networks for large-scale system digital twins”.
+
+- **Paper [02/2025]**: A paper entitled [“**Integrating multi-source data for life-cycle risk assessment of bridge networks: a system digital twin framework**”](https://link.springer.com/article/10.1186/s43065-025-00121-7) is published in ***Journal of Infrastructure Preservation and Resilience***.
 
 - **Excellent Abstract Award [11/2024]**: We have won the Excellent Abstract Award at **The 2nd Workshop on Future of Machine Learning in Geotechnics & the 5th Machine Learning in Geotechnics Dialogue** for the paper “Integrating multi-source information for intelligent detection of ground properties during earth pressure balanced shield tunnelling”.
 
