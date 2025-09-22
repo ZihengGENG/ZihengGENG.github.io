@@ -16,7 +16,7 @@ Feel free to discuss research with me via [**ziheng.geng@miami.edu**](mailto:zih
 
 # Recent News
 
-- **Finalist [05/2025]**: Honored to share that I have been selected as one of the finalists in the Probabilistic Methods Committee Student Paper Competition at EMI 2025. I will present the work ib system digital twin.
+- **Finalist [05/2025]**: Honored to share that I have been selected as one of the **finalists in the Probabilistic Methods Committee Student Paper Competition** at EMI 2025. I will present the work ib system digital twin.
 
 - **Student Poster Competition Winner [03/2025]**: I have received **1st place** in the Student Poster Competition at **1st Symposium on Climate-Smart Infrastructure Innovations & Implementation (CSi3)** for the poster “An entropy-based formulation of Bayesian networks for large-scale system digital twins”.
 
