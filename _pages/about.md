@@ -16,6 +16,8 @@ Feel free to discuss research with me via [**ziheng.geng@miami.edu**](mailto:zih
 
 # Recent News
 
+- **Finalist [05/2025]**: Honored to share that I have been selected as one of the finalists in the Probabilistic Methods Committee Student Paper Competition at EMI 2025. I will present the work ib system digital twin.
+
 - **Student Poster Competition Winner [03/2025]**: I have received **1st place** in the Student Poster Competition at **1st Symposium on Climate-Smart Infrastructure Innovations & Implementation (CSi3)** for the poster “An entropy-based formulation of Bayesian networks for large-scale system digital twins”.
 
 - **Paper [02/2025]**: A paper entitled [“**Integrating multi-source data for life-cycle risk assessment of bridge networks: a system digital twin framework**”](https://link.springer.com/article/10.1186/s43065-025-00121-7) is published in ***Journal of Infrastructure Preservation and Resilience***.
